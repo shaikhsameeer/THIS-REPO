@@ -1,0 +1,9 @@
+ notesfolder is a folder 
+when we go in a repository like THIS-repo
+then mkdir notesfolder make folder name notesfolder in it
+cd to enteer notesfolder
+touch notes1l.txt to make a file name notes1l.txt in notesfolder
+vim to writte inside that file
+git add notesfolder/ notes1l.txt to add folder and file
+same with git commit
+then git push origin
